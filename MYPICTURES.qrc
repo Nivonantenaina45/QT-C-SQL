@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>add-user.png</file>
+        <file>Audi.jpg</file>
+        <file>auto-Mercedes.jpg</file>
+        <file>Bentelly.png</file>
+        <file>bmw.jpg</file>
+        <file>brand-identity.png</file>
+        <file>Bugatti-New.jpg</file>
+        <file>Bugatti-new.png</file>
+        <file>Bugatti-Old.png</file>
+        <file>buy.png</file>
+        <file>Chevorlet.png</file>
+        <file>confirm.png</file>
+        <file>deal.png</file>
+        <file>drucken.png</file>
+        <file>Ferrari.jpg</file>
+        <file>file.png</file>
+        <file>folder.png</file>
+        <file>Ford-mustang.jpg</file>
+        <file>google-docs.png</file>
+        <file>Heuman.png</file>
+        <file>icon-Mann.png</file>
+        <file>label.png</file>
+        <file>lady.png</file>
+        <file>lamborghini.jpg</file>
+        <file>lamborghini.Yellow.png</file>
+        <file>lamborghini-Red.png</file>
+        <file>Man2.jpg</file>
+        <file>Mann.png</file>
+        <file>maserati-gran-turismo.jpg</file>
+        <file>money.png</file>
+        <file>new-arrival.png</file>
+        <file>new-item.png</file>
+        <file>positive-thinking.png</file>
+        <file>Porsche.png</file>
+        <file>product.png</file>
+        <file>profile-Heuman.png</file>
+        <file>question.jpg</file>
+        <file>team-member.png</file>
+        <file>Woman.jpg</file>
+        <file>woman.png</file>
+    </qresource>
+</RCC>
